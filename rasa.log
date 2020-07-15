@@ -1,0 +1,6 @@
+2020-07-15 08:25:46 INFO     root  - Starting Rasa server on http://localhost:5005
+2020-07-15 08:25:47.974351: E tensorflow/stream_executor/cuda/cuda_driver.cc:351] failed call to cuInit: UNKNOWN ERROR (303)
+2020-07-15 08:26:04 INFO     root  - Rasa server is up and running.
+[93m/home/sen/anaconda3/lib/python3.7/site-packages/rasa/utils/common.py:363: UserWarning: Interpreter parsed an intent 'react_negative' which is not defined in the domain. Please make sure all intents are listed in the domain.
+  More info at https://rasa.com/docs/rasa/core/domains/
+[0m2020-07-15 08:26:19 WARNING  rasa.core.featurizers  - Feature 'intent_react_negative' could not be found in feature map.

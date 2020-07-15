@@ -1,0 +1,6 @@
+2020-07-15 08:25:43 INFO     rasa_sdk.endpoint  - Starting action endpoint server...
+2020-07-15 08:25:43 INFO     rasa_sdk.executor  - Registered function for 'form_get_rating'.
+2020-07-15 08:25:43 INFO     rasa_sdk.executor  - Registered function for 'form_get_influence'.
+2020-07-15 08:25:43 INFO     rasa_sdk.executor  - Registered function for 'form_get_support_feedback'.
+2020-07-15 08:25:43 INFO     rasa_sdk.executor  - Registered function for 'form_get_rating_quick'.
+2020-07-15 08:25:43 INFO     rasa_sdk.endpoint  - Action endpoint is up and running on http://localhost:5055
