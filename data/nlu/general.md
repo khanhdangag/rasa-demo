@@ -229,6 +229,14 @@
 - cool beans
 - sounds good!
 - really
+- Tôi đồng ý 
+- Được 
+- Được thôi
+- Chốt 
+- Tôi sẽ làm
+- Súc 
+- Làm ngay 
+- Tôi hài lòng
 
 ## intent:bye
 - Bye

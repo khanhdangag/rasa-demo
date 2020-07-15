@@ -1,6 +1,6 @@
 ## intent:why_
 - why 
-- why should I use rasa?
+- why should I use Enrollment bot?
 - why should I switch to rasa?
 - what's so great about using Rasa?
 - how is rasa's NLU better than [watson](current_api) 's
